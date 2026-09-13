@@ -1,244 +1,125 @@
 # Deployment
 
-## Deployment Model
+## Production
 
-Ristorante Incontro Limone is a static website built with HTML, CSS and vanilla JavaScript ES modules.
-
-There is no build step.
-
-The website can be deployed by serving the project files directly over HTTPS.
-
----
-
-## Repository
+The production project is:
 
 ```text
-https://github.com/DAAART-STUDIO/ristoranteincontrolimone
+Ristorante al Pontile
 ```
 
-Production/deployment branch:
+Repository:
 
 ```text
-main
+https://github.com/DAAART-STUDIO/alpontile
 ```
 
-The `main` branch is the current deployment source.
-
----
-
-## Hosting — GitHub Pages
-
-The project is configured for static deployment through GitHub Pages.
-
-The intended GitHub Pages configuration is:
-
-1. Open the repository **Settings → Pages**.
-
-2. Under **Build and deployment → Source**, select:
-
-   **Deploy from a branch**
-
-3. Configure:
-
-   **Branch:** `main`
-   **Folder:** `/ (root)`
-
-4. Save the configuration.
-
-5. The project is served from the repository's GitHub Pages URL.
-
-Current project URL:
+Official website:
 
 ```text
-https://daaart-studio.github.io/ristoranteincontrolimone/
+https://ristorantealpontile.com/
 ```
 
-6. A new push to `main` triggers a GitHub Pages deployment.
+## Repository model
 
-Deployment may take some time to become available after a new push.
+This repository is independent from the donor repository.
 
----
+The donor project was used only as a technical and visual foundation. The donor Git history and remote are not part of this repository.
 
-## Project-Subpath Constraint
+The production repository must not contain the internal `AGENTS.md` workflow file.
 
-The current GitHub Pages deployment uses the project subpath:
+## Deployment model
 
-```text
-https://daaart-studio.github.io/ristoranteincontrolimone/
+The site is a static frontend. Deployment consists of publishing the repository's production files to the configured web host.
+
+No server-side application or build pipeline is required by the current architecture.
+
+## Pre-deployment checks
+
+Before every production release:
+
+### Git
+
+```bash
+git status
+git remote -v
 ```
 
-The website therefore does not run at the domain root.
+Verify:
 
-Asset and internal resource references should remain **relative**.
+- correct repository;
+- correct branch;
+- no unintended files;
+- no donor `.git` history;
+- `AGENTS.md` is not tracked.
 
-Preferred:
+### Frontend
 
-```html
-<link rel="stylesheet" href="css/base.css">
-<script type="module" src="js/app.js"></script>
-<img src="assets/images/example.webp" alt="">
-```
+Verify:
 
-Avoid root-relative paths:
-
-```html
-<link rel="stylesheet" href="/css/base.css">
-<script type="module" src="/js/app.js"></script>
-<img src="/assets/images/example.webp" alt="">
-```
-
-Root-relative paths resolve from the domain root and can result in broken resources when the project is deployed under `/ristoranteincontrolimone/`.
-
-Keep paths compatible with the current GitHub Pages project-subpath deployment.
-
----
-
-## Custom Domain
-
-A custom domain may be configured when the production domain is ready.
-
-The custom domain should be configured through:
-
-**Repository → Settings → Pages → Custom domain**
-
-DNS records must also be configured at the domain provider according to GitHub Pages requirements.
-
-When a custom domain becomes the production URL, update all domain-dependent resources, including:
-
-* `robots.txt`
-* `sitemap.xml`
-* canonical URL
-* Open Graph URLs
-* structured data
-* `site.webmanifest`
-* any absolute URLs used by the website
-
-HTTPS should be enabled after the custom domain has been correctly configured.
-
----
-
-## Deployment Checklist
-
-Before deploying changes to `main`, verify:
+- `index.html` loads;
+- all CSS files load;
+- all JavaScript modules load;
+- all image paths resolve;
+- favicon works;
+- manifest works;
+- responsive layouts work;
+- language switching works;
+- reservation/contact actions point to verified destinations.
 
 ### Content
 
-* Restaurant name
-* Address
-* Telephone
-* Email
-* Opening hours
-* Menu information
-* Reservation information
-* Location information
+Verify current:
 
-All restaurant-specific information must be verified before publication.
+- restaurant name;
+- address;
+- telephone;
+- email;
+- official website;
+- reservation URL;
+- menu;
+- opening hours;
+- social profiles;
+- map location.
 
-### Technical
-
-* `index.html` loads correctly
-* CSS files load correctly
-* JavaScript modules load correctly
-* JSON files load correctly
-* Images load correctly
-* SVG assets load correctly
-* Navigation works
-* Mobile navigation works
-* Reservation interface works
-* Language switching works
-* Theme switching works
-* Animations work
-* Responsive layouts work
+Do not publish unverified claims.
 
 ### SEO
 
 Verify:
 
-* page title
-* meta description
-* canonical URL
-* Open Graph metadata
-* structured data
-* `robots.txt`
-* `sitemap.xml`
-* favicon
-* web manifest
+- `<title>`;
+- meta description;
+- `lang`;
+- canonical, if used;
+- Open Graph metadata, if used;
+- `robots.txt`;
+- `sitemap.xml`;
+- `site.webmanifest`;
+- favicon and brand assets.
 
-All production metadata must correspond to Ristorante Incontro Limone.
+## Static hosting notes
 
----
+The repository includes `.nojekyll` for static-hosting compatibility.
 
-## Local Verification
+If GitHub Pages is used for a preview environment, configure the appropriate source branch and directory in GitHub Pages settings.
 
-Because the project uses JavaScript ES Modules, do not open `index.html` directly using `file://`.
-
-Run a local HTTP server before deployment.
-
-### Python
-
-```bash
-cd ristoranteincontrolimone
-python -m http.server 8002
-```
-
-Then open:
+The production domain remains:
 
 ```text
-http://localhost:8002
+https://ristorantealpontile.com/
 ```
 
-Verify the website locally before pushing changes to `main`.
+## Release principle
 
----
+Make small logical commits.
 
-## Production Verification
+Example:
 
-After pushing changes to `main`:
+```bash
+git add README.md docs/
+git commit -m "docs: adapt documentation for Ristorante al Pontile"
+git push
+```
 
-1. Wait for GitHub Pages deployment to complete.
-2. Open the live website.
-3. Verify the homepage.
-4. Test navigation.
-5. Test mobile behavior.
-6. Test language switching.
-7. Test theme switching.
-8. Test interactive sections.
-9. Check the browser console for JavaScript errors.
-10. Check the Network panel for failed resources or `404` responses.
-
----
-
-## Production Branch Policy
-
-The `main` branch is the deployment branch.
-
-Development work should be tested locally before being pushed to `main`.
-
-Avoid committing unfinished or experimental functionality directly to the deployment branch unless the change is intentionally part of the current development state.
-
----
-
-## Deployment Integrity
-
-The deployment must preserve the existing project architecture.
-
-Do not introduce a build process, frontend framework or deployment dependency unless explicitly required.
-
-Before deployment, verify that:
-
-* relative paths remain valid
-* JavaScript ES Modules load correctly
-* localized JSON files are available
-* static assets are accessible
-* responsive behavior remains intact
-* existing interactions continue to work
-
----
-
-## Privacy Note
-
-GitHub Pages serves the frontend as static web resources.
-
-Visitors can inspect the deployed HTML, CSS, JavaScript and other publicly served assets through browser developer tools or page source.
-
-Repository visibility controls access to the GitHub repository itself and does not make already deployed frontend resources private.
+Content, assets and code changes should be committed separately when practical.

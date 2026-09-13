@@ -1,7 +1,7 @@
 {
-  "name": "Ristorante Pizza Incontro",
-  "short_name": "Incontro",
-  "description": "Ristorante e pizzeria con vista sul Lago di Garda a Limone sul Garda, Italia.",
+  "name": "Ristorante al Pontile",
+  "short_name": "Al Pontile",
+  "description": "Ristorante al Pontile a Malcesine, sul Lago di Garda, Italia.",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",

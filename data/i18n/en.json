@@ -36,10 +36,10 @@
     "explore": "Explore"
   },
   "experience": {
-    "eyebrow": "A place by the water",
-    "title": "Dining directly on Lake Garda",
-    "text": "At Ristorante al Pontile, the lake is part of the experience. Set directly on the shores of Lake Garda in Malcesine, the restaurant offers tables on its private pontile with a privileged view of the medieval Castello di Malcesine, bringing together Italian cuisine, the beauty of the lake and the atmosphere of an unforgettable evening.",
-    "year": "LAKE",
+    "eyebrow": "A place shaped by history",
+    "title": "Dining beside the Castello Scaligero",
+    "text": "At Ristorante al Pontile, the lake meets the history of Malcesine. Just beyond the water stands the Castello Scaligero, the town's iconic fortress rebuilt by the Scaliger family around 1300. From a table by the lake, guests can experience the landscape that has defined Malcesine for centuries — the Garda shoreline, the medieval castle and the mountains of Monte Baldo.",
+    "year": "1300",
     "nodes": {
       "way01": {
         "title": "The journey begins"

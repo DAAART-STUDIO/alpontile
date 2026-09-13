@@ -36,10 +36,10 @@
     "explore": "Entdecken"
   },
   "experience": {
-    "eyebrow": "Ein Ort am Wasser",
-    "title": "Direkt am Gardasee speisen",
-    "text": "Im Ristorante al Pontile gehört der See zum Erlebnis. Direkt am Ufer des Gardasees in Malcesine gelegen, bietet das Restaurant Tische auf dem privaten Pontile mit einem besonderen Blick auf das mittelalterliche Castello di Malcesine und verbindet italienische Küche, die Schönheit des Sees und die Atmosphäre eines unvergesslichen Abends.",
-    "year": "SEE",
+    "eyebrow": "Ein Ort, geprägt von Geschichte",
+    "title": "Zu Tisch am Castello Scaligero",
+    "text": "Im Ristorante al Pontile trifft der See auf die Geschichte von Malcesine. Direkt jenseits des Wassers erhebt sich das Castello Scaligero, das Wahrzeichen der Stadt und eine Festung, die von der Familie della Scala um 1300 neu errichtet wurde. An einem Tisch am See erlebt man die Landschaft, die Malcesine seit Jahrhunderten prägt: das Ufer des Gardasees, die mittelalterliche Burg und die Berge des Monte Baldo.",
+    "year": "1300",
     "nodes": {
       "way01": {
         "title": "Die Reise beginnt"

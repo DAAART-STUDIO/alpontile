@@ -36,10 +36,10 @@
     "explore": "Esplora"
   },
   "experience": {
-    "eyebrow": "Un luogo sull'acqua",
-    "title": "A tavola direttamente sul Lago di Garda",
-    "text": "Al Ristorante al Pontile, il lago è parte dell'esperienza. Situato direttamente sulle rive del Lago di Garda a Malcesine, il ristorante offre tavoli sul proprio pontile privato con una vista privilegiata sul medievale Castello di Malcesine, unendo cucina italiana, bellezza del lago e atmosfera per una serata indimenticabile.",
-    "year": "LAGO",
+    "eyebrow": "Un luogo plasmato dalla storia",
+    "title": "A tavola accanto al Castello Scaligero",
+    "text": "Al Ristorante al Pontile, il lago incontra la storia di Malcesine. Poco oltre l'acqua si trova il Castello Scaligero, simbolo della città e fortezza ricostruita dalla famiglia degli Scaligeri intorno al 1300. A tavola sul lago si vive così il paesaggio che da secoli definisce Malcesine: la riva del Garda, il castello medievale e le montagne del Monte Baldo.",
+    "year": "1300",
     "nodes": {
       "way01": {
         "title": "Il viaggio comincia"

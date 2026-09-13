@@ -1,10 +1,8 @@
 {
-  
   "meta": {
-    "title": "Ristorante Incontro a Limone sul Garda",
-    "description": "Ristorante Incontro a Limone sul Garda: cucina italiana, specialità del Lago di Garda e atmosfera autentica nel cuore di Limone sul Garda."
+    "title": "Ristorante al Pontile a Malcesine",
+    "description": "Ristorante al Pontile a Malcesine: cucina italiana, specialità del Lago di Garda e tavoli sul lago con vista sul Castello di Malcesine."
   },
-
   "navigation": {
     "view": "Vista",
     "experience": "Esperienza",
@@ -12,240 +10,230 @@
     "menu": "Menu",
     "place": "Il luogo",
     "moments": "Momenti",
-    "events": "Eventi",
+    "events": "Occasioni speciali",
     "visit": "Visita"
   },
-  
   "hero": {
-    "titlePrefix": "Un tavolo con vista",
-    "titleLake": "sul Lago",
+    "titlePrefix": "Un tavolo sul",
+    "titleLake": "Lago",
     "titleGarda": "di Garda",
-    "eyebrow": "Ristorante • Pizza",
-    "title": "Un tavolo con vista sul Lago di Garda.",
-    "location": "Incontro · Limone sul Garda · Italia",
-    "description": "Cucina italiana, pasta fatta in casa, pizza e i sapori del lago, serviti su una terrazza panoramica con vista su Limone sul Garda.",
+    "eyebrow": "Ristorante • Malcesine",
+    "title": "Un tavolo sul Lago di Garda.",
+    "location": "Ristorante al Pontile · Malcesine · Italia",
+    "description": "Cucina italiana, sapori freschi del Lago di Garda e un tavolo affacciato sul lago e sul Castello di Malcesine.",
     "primaryCta": "Prenota un tavolo",
-    "secondaryCta": "Scopri Incontro",
+    "secondaryCta": "Scopri Al Pontile",
     "scroll": "Scopri"
   },
-  
   "view": {
-    "eyebrow": "L'esperienza Incontro",
-    "title": "A tavola con vista",
-    "description": "Una terrazza panoramica, la bellezza del Lago di Garda e il piacere della cucina italiana si incontrano da Incontro.",
-    "lakeCaption": "La Terrazza · Lago di Garda",
-    "lakeDetail": "Una vista panoramica su Limone sul Garda",
-    "cityCaption": "La Tavola · Incontro",
-    "cityDetail": "Cucina italiana · Pizza · Vino",
-    "explore": "Scopri"
+    "eyebrow": "L'esperienza Al Pontile",
+    "title": "A tavola sul lago",
+    "description": "Un tavolo sul Lago di Garda, l'atmosfera di Malcesine e il piacere della cucina italiana si incontrano da Al Pontile.",
+    "lakeCaption": "Il Pontile · Lago di Garda",
+    "lakeDetail": "Un tavolo accanto all'acqua nel cuore di Malcesine",
+    "cityCaption": "La tavola · Al Pontile",
+    "cityDetail": "Cucina italiana · Lago di Garda · Malcesine",
+    "explore": "Esplora"
   },
-
   "experience": {
-    "eyebrow": "Un luogo dalle sue radici",
-    "title": "Un luogo storico nel cuore di Limone",
-    "text": "La storia di Incontro affonda le sue radici nella storia di Limone sul Garda. Immerso tra le antiche terrazze del paese, questo luogo unisce il carattere del passato al piacere della tavola italiana di oggi. Il lago, le montagne e l'architettura tradizionale di Limone fanno da cornice a un'esperienza in cui la storia rimane parte del luogo, insieme alla buona cucina, al vino e all'ospitalità.",
-    "year": "1720",
+    "eyebrow": "Un luogo sull'acqua",
+    "title": "A tavola direttamente sul Lago di Garda",
+    "text": "Al Ristorante al Pontile, il lago è parte dell'esperienza. Situato direttamente sulle rive del Lago di Garda a Malcesine, il ristorante offre tavoli sul proprio pontile privato con una vista privilegiata sul medievale Castello di Malcesine, unendo cucina italiana, bellezza del lago e atmosfera per una serata indimenticabile.",
+    "year": "LAGO",
     "nodes": {
       "way01": {
         "title": "Il viaggio comincia"
       },
       "way02": {
-        "title": "Verso Limone"
+        "title": "Verso il Lago di Garda"
       },
       "way03": {
-        "title": "In arrivo a Limone"
+        "title": "Arrivando a Malcesine"
       },
       "way04": {
-        "title": "Entrando in paese"
+        "title": "Lungo il lago"
       },
       "way05": {
-        "title": "Nel centro storico"
+        "title": "Il lago si avvicina"
       },
       "way06": {
-        "title": "Ci siamo quasi"
+        "title": "Un tavolo sull'acqua"
       },
       "way07": {
-        "title": "Via Fontana"
+        "title": "Lo scenario di Al Pontile"
       },
       "way08": {
-        "title": "Ancora pochi passi"
+        "title": "Il Lago di Garda tutto intorno"
       },
       "way09": {
-        "title": "Siete arrivati"
+        "title": "Un momento da assaporare"
       },
       "way10": {
-        "title": "Hostaria Al Buongusto"
+        "title": "Ristorante al Pontile"
       }
     }
   },
-
   "moments": {
-    "eyebrow": "Momenti dei nostri ospiti",
-    "title": "Ricordi creati da Incontro",
-    "description": "Un pranzo in famiglia, un brindisi con gli amici, una cena al tramonto o un selfie sul lago — momenti che i nostri ospiti scelgono di ricordare.",
-
+    "eyebrow": "Momenti da Al Pontile",
+    "title": "Momenti sul Lago di Garda",
+    "description": "Un pranzo sull'acqua, una serata a Malcesine, un brindisi con gli amici o semplicemente la vista sul Lago di Garda — momenti da ricordare da Al Pontile.",
     "cards": {
       "01": {
-        "label": "Una giornata insieme",
-        "meta": "Da Incontro"
+        "label": "Un tavolo sul lago",
+        "meta": "Ristorante al Pontile"
       },
       "02": {
-        "label": "Pranzo in famiglia",
-        "meta": "Una tavola per tutti"
+        "label": "Tempo sull'acqua",
+        "meta": "Lago di Garda"
       },
       "03": {
         "label": "Un brindisi sul lago",
-        "meta": "Amici a tavola"
+        "meta": "Malcesine"
       },
       "04": {
-        "label": "Un assaggio d'Italia",
+        "label": "Il gusto d'Italia",
         "meta": "Cucina italiana"
       },
       "05": {
-        "label": "Solo noi due",
-        "meta": "Una serata da Incontro"
+        "label": "Una serata sul lago",
+        "meta": "Al Pontile"
       },
       "06": {
         "label": "Un momento da ricordare",
-        "meta": "Insieme a tavola"
+        "meta": "A tavola sull'acqua"
       },
       "07": {
-        "label": "Una sera a Limone",
-        "meta": "Cena da Incontro"
+        "label": "Una serata a Malcesine",
+        "meta": "Lago di Garda"
       },
       "08": {
-        "label": "Un ricordo per due",
+        "label": "Una vista da ricordare",
         "meta": "Lago di Garda"
       },
       "09": {
-        "label": "Siamo stati qui",
-        "meta": "Limone sul Garda"
+        "label": "Un luogo da ricordare",
+        "meta": "Malcesine · Italia"
       }
     },
-
     "note": "Conserva il momento.",
-    "footer": "Ogni tavola ha una storia. Ogni visita lascia un ricordo."
+    "footer": "Ogni tavolo ha una vista. Ogni momento diventa un ricordo."
   },
-  
   "cuisine": {
     "eyebrow": "La Cucina",
-    "title": "La cucina italiana con il gusto del Lago di Garda",
-    "description": "Da Ristorante Pizza Incontro, la cucina italiana incontra i sapori del Lago di Garda. Il menu propone pesce di lago e di mare, pasta fatta in casa, piatti di carne e autentica pizza italiana. Dal coregone del Garda al risotto con capesante, dalle mezzelune fatte in casa alla tartare di carne e alla Pizza Incontro, ogni piatto è preparato con cura e attenzione ai dettagli. Una carta dei vini selezionata completa l'esperienza, tra grandi classici italiani ed etichette prestigiose.",
+    "title": "Cucina italiana sul Lago di Garda",
+    "description": "Al Ristorante al Pontile, la tradizione italiana incontra i sapori del Lago di Garda. Il menu riunisce pesce d'acqua dolce del lago, specialità di mare, pasta, carni selezionate e grandi classici italiani, insieme a pizze tradizionali e gourmet. Dalla trota salmonata alla griglia alla Pasta Lago di Garda, dagli spaghetti allo scoglio alla Scottona e ai dessert della tradizione, la cucina unisce sapori italiani familiari e carattere del lago.",
     "panels": {
       "lake": {
         "title": "Lago & Mare",
-        "text": "Pesce del Garda, frutti di mare, risotti e sapori mediterranei."
+        "text": "Pesce d'acqua dolce del Lago di Garda, specialità di mare e sapori mediterranei."
       },
       "mountain": {
-        "title": "Pasta & Risotti",
-        "text": "Pasta fatta in casa, mezzelune, tortelli e risotti dai sapori equilibrati."
+        "title": "Pasta & Primi",
+        "text": "Pasta, Pasta Lago di Garda, spaghetti di mare e primi piatti della tradizione italiana."
       },
       "mediterranean": {
-        "title": "Carne & Classici",
-        "text": "Tartare di carne, vitello, costata e grandi classici italiani reinterpretati con cura."
+        "title": "Pesce & Carne",
+        "text": "Trota alla griglia, orata alla mediterranea, Scottona e grandi secondi della cucina italiana."
       },
       "cellar": {
-        "title": "Pizza, Vino & Dessert",
-        "text": "Pizze d'autore, vini italiani selezionati e dessert come 100% Limone e tiramisù fatto in casa."
+        "title": "Pizza & Dessert",
+        "text": "Pizze classiche e gourmet, seguite da dessert italiani e specialità dolci."
       }
     },
     "dishes": {
       "tunatartare": {
-        "name": "Tartare di tonno",
-        "description": "Tartare di tonno con mousse di caprino, salsa al mango e foglia di cappero."
+        "name": "Polpo alla piastra con patate",
+        "description": "Polpo alla piastra servito con patate."
       },
       "lagoAffumicato": {
-        "name": "Filetto di coregone del Garda",
-        "description": "Filetto di coregone del Garda con crema di topinambur, asparagi e caviale di aringa."
+        "name": "Pasta Lago di Garda",
+        "description": "Pasta con pesce del Lago di Garda: lavarello, tinca e persico."
       },
       "saporeDiLago": {
-        "name": "Risotto riserva “Pila Vecia”",
-        "description": "Risotto con limone, rosmarino e crudo di capasanta."
+        "name": "Spaghetti allo scoglio",
+        "description": "Spaghetti con frutti di mare."
       },
       "ilNostroMare": {
-        "name": "Mezzelune fatte in casa",
-        "description": "Mezzelune fatte in casa ai gamberi, aglio, olio e peperoncino."
+        "name": "Tagliolini con zucchine, gamberi e pomodorini",
+        "description": "Tagliolini con zucchine, gamberi e pomodorini."
       },
       "cozzePatateBaccala": {
-        "name": "Zuppa di pesce alla mediterranea",
-        "description": "Zuppa di pesce alla mediterranea preparata con pesce e frutti di mare."
+        "name": "Zuppa di pesce",
+        "description": "Zuppa di pesce in stile mediterraneo."
       },
       "ilPolpoENero": {
-        "name": "Cappuccino di polpo alla Luciana",
-        "description": "Polpo alla Luciana con patate e olive."
+        "name": "Filetto di trota salmonata alla griglia",
+        "description": "Filetto di trota salmonata alla griglia."
       },
       "duettoTrentino": {
-        "name": "Tartare di carne",
-        "description": "Tartare di carne con fonduta di Gorgonzola e bottarga di uovo."
+        "name": "Tartare di manzo",
+        "description": "Tartare di manzo battuta al coltello."
       },
       "terraDEstate": {
-        "name": "Costata di manzo",
-        "description": "Costata di manzo servita con i suoi contorni."
+        "name": "Tagliata di Scottona",
+        "description": "Tagliata di Scottona alla griglia."
       },
       "blackAngus": {
-        "name": "Girello di vitello arrosto",
-        "description": "Girello di vitello arrosto con salsa tonnata, capperi e pomodorini confit."
+        "name": "Orata in padella alla mediterranea",
+        "description": "Orata in padella con olive, capperi, aglio, pomodorini e prezzemolo."
       },
       "reginaMargherita": {
-        "name": "Pizza Incontro",
-        "description": "Fior di latte, tonno Tataki, pomodori confit, cipolle di Tropea, capperi e olive."
+        "name": "Pizza Margherita",
+        "description": "Pizza con mozzarella e salsa di pomodoro."
       },
       "tonnetto": {
-        "name": "Pizza Lei",
-        "description": "Fior di latte, acciughe del Cantabrico, burrata, pomodori infornati, peperoni grigliati, capperi, olio all'aglio e origano."
+        "name": "Pizza Gourmet Europa",
+        "description": "Pizza gourmet con bresaola, rucola e scaglie di Grana."
       },
       "diavola": {
-        "name": "100% Limone",
-        "description": "Un dessert al limone dedicato ai sapori e alla freschezza di Limone sul Garda."
+        "name": "Tiramisù",
+        "description": "Classico tiramisù italiano."
       }
     }
   },
-
   "menu": {
     "eyebrow": "I preferiti del menu",
-    "title": "Il gusto di Incontro.",
+    "title": "Il gusto di Al Pontile.",
     "cta": "Scopri il menu",
-    "note": "Una selezione dei piatti più amati dai nostri ospiti.",
+    "note": "Una selezione di piatti dal menu attuale di Al Pontile.",
     "items": {
       "01": {
-        "name": "Tartare di carne",
-        "description": "Tartare di carne con fonduta di gorgonzola e bottarga di uovo.",
-        "price": "€24"
+        "name": "Polpo alla piastra con patate",
+        "description": "Polpo alla piastra servito con patate.",
+        "price": "€19"
       },
       "02": {
-        "name": "Risotto “Pila Vecia”",
-        "description": "Risotto con limone, rosmarino e crudo di capasanta.",
-        "price": "€23"
+        "name": "Pasta Lago di Garda",
+        "description": "Pasta con pesce d'acqua dolce del Lago di Garda: lavarello, tinca e persico.",
+        "price": "€17"
       },
       "03": {
-        "name": "Mezzelune fatte in casa",
-        "description": "Mezzelune fatte in casa ai gamberi, aglio, olio e peperoncino.",
+        "name": "Spaghetti allo scoglio",
+        "description": "Spaghetti con frutti di mare.",
         "price": "€23"
       },
       "04": {
-        "name": "Pizza Lei",
-        "description": "Fior di latte, acciughe del Cantabrico, burrata, pomodori infornati, peperoni grigliati, capperi, olio all'aglio e origano.",
-        "price": "€23"
+        "name": "Tagliata di Scottona",
+        "description": "Tagliata di Scottona alla griglia.",
+        "price": "€25"
       },
       "05": {
-        "name": "Tiramisù fatto in casa",
-        "description": "Il classico tiramisù italiano, preparato in casa.",
-        "price": "€10"
+        "name": "Tiramisù",
+        "description": "Classico tiramisù italiano.",
+        "price": "€8"
       }
     }
   },
-  
   "place": {
-    "eyebrow": "Il luogo",
-    "title": "Un luogo da vivere a Limone",
-    "description": "Nel cuore di Limone sul Garda, Ristorante Pizza Incontro unisce una terrazza panoramica, la bellezza del Lago di Garda e l'atmosfera senza tempo del paese.",
+    "eyebrow": "Il Luogo",
+    "title": "Un tavolo sul Lago di Garda",
+    "description": "Il Ristorante al Pontile si trova direttamente sulle rive del Lago di Garda a Malcesine, con tavoli sul pontile privato e una vista privilegiata sul Castello di Malcesine.",
     "cta": "Scopri il luogo"
   },
-
   "events": {
     "eyebrow": "Momenti speciali",
-    "title": "Rendi il momento tutto tuo",
-    "description": "Da una cena romantica a una celebrazione in famiglia, Incontro è il luogo dove condividere momenti speciali con il Lago di Garda sullo sfondo.",
+    "title": "Rendi tuo il momento",
+    "description": "Una cena romantica, una celebrazione in famiglia o un'occasione speciale sul lago — Al Pontile offre uno scenario memorabile a Malcesine, con il Lago di Garda e il Castello di Malcesine sullo sfondo.",
     "cta": "Prenota il tuo momento",
     "types": {
       "romanticDinners": "Cene romantiche",
@@ -253,24 +241,23 @@
       "specialOccasions": "Occasioni speciali"
     }
   },
-
   "visit": {
-    "eyebrow": "Visita Ristorante Pizza Incontro",
-    "title": "Vieni a Limone",
-    "description": "Ci trovi a Limone sul Garda: fai della tua visita parte dell'esperienza del Lago di Garda.",
+    "eyebrow": "Visita Ristorante al Pontile",
+    "title": "Vieni a Malcesine",
+    "description": "Ci trovi direttamente sul Lago di Garda a Malcesine: fai della tua visita parte dell'esperienza del lago.",
     "locationLabel": "Dove siamo",
-    "address": "Via Caldogno, 1 · 25010 Limone sul Garda BS · Italia",
+    "address": "Via Gardesana, 173 · 37018 Malcesine VR · Italia",
     "directions": "Come arrivare"
   },
-  
   "footer": {
-    "brandLabel": "RISTORANTE PIZZA INCONTRO",
-    "brandTitle": "INCONTRO",
-    "subtitle": "Ristorante • Pizza",
-    "phone": "+39 392 2558721",
-    "website": "ristoranteincontrolimone.it",
+    "brandLabel": "RISTORANTE AL PONTILE",
+    "brandTitle": "AL PONTILE",
+    "subtitle": "Cucina italiana · Lago di Garda · Malcesine",
+    "phone": "+39 045 7400022",
+    "email": "info@ristorantealpontile.com",
+    "website": "ristorantealpontile.com",
     "followUs": "Seguici",
-    "legal": "Via Caldogno, 1 · 25010 Limone sul Garda BS · Italia. Ristorante Pizza Incontro con una terrazza panoramica affacciata sul Lago di Garda, nel cuore di Limone sul Garda.",
+    "legal": "Via Gardesana, 173 · 37018 Malcesine VR · Italia. Ristorante al Pontile sulle rive del Lago di Garda, con tavoli sul pontile privato e vista sul Castello di Malcesine.",
     "facebook": "Facebook",
     "instagram": "Instagram",
     "google": "Google Maps",
@@ -279,26 +266,24 @@
     "credit": "Realizzato con amore da",
     "author": "daaart.in.ua"
   },
-
   "reservation": {
     "eyebrow": "Prenotazioni",
     "title": "Prenota il tuo tavolo",
-    "description": "Scegli la modalità più comoda per te e contatta direttamente Ristorante Pizza Incontro.",
+    "description": "Scegli il modo più comodo per te e contatta direttamente il Ristorante al Pontile.",
     "close": "Chiudi",
     "phone": {
       "title": "Prenota per telefono",
-      "description": "Chiamaci direttamente per prenotare il tuo tavolo."
+      "description": "Chiamaci direttamente per organizzare il tuo tavolo."
     },
     "location": {
-      "title": "Dove siamo",
-      "description": "Apri la nostra posizione su Google Maps e scopri come arrivare.",
-      "label": "Via Caldogno, 1 · Limone sul Garda"
+      "title": "Trovaci",
+      "description": "Apri la nostra posizione su Google Maps e calcola il percorso.",
+      "label": "Via Gardesana, 173 · Malcesine"
     },
     "website": {
       "title": "Visita il nostro sito",
-      "description": "Scopri Ristorante Pizza Incontro e organizza la tua visita."
+      "description": "Scopri Ristorante al Pontile e organizza la tua visita."
     },
-    "note": "Ti consigliamo di prenotare in anticipo, soprattutto per la sera e per le occasioni speciali."
+    "note": "Consigliamo di prenotare in anticipo, soprattutto per le serate e le occasioni speciali."
   }
-
 }

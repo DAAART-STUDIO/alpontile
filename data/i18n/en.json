@@ -1,10 +1,8 @@
 {
-
   "meta": {
-    "title": "Ristorante Incontro in Limone sul Garda",
-    "description": "Ristorante Incontro in Limone sul Garda: Italian cuisine, Lake Garda specialties, and an authentic atmosphere in the heart of Limone sul Garda."
+    "title": "Ristorante al Pontile in Malcesine",
+    "description": "Ristorante al Pontile in Malcesine: Italian cuisine, Lake Garda specialties and a table by the water with a view of Castello di Malcesine."
   },
-
   "navigation": {
     "view": "View",
     "experience": "Experience",
@@ -15,237 +13,227 @@
     "events": "Events",
     "visit": "Visit"
   },
-
   "hero": {
-    "titlePrefix": "A table overlooking",
+    "titlePrefix": "A table on",
     "titleLake": "Lake",
     "titleGarda": "Garda",
-    "eyebrow": "Ristorante • Pizza",
-    "title": "A table overlooking Lake Garda.",
-    "location": "Incontro · Limone sul Garda · Italy",
-    "description": "Italian cuisine, handmade pasta, pizza and the flavours of the lake, served on a panoramic terrace overlooking Limone sul Garda.",
+    "eyebrow": "Ristorante • Malcesine",
+    "title": "A table on Lake Garda.",
+    "location": "Ristorante al Pontile · Malcesine · Italy",
+    "description": "Italian cuisine, fresh flavours of Lake Garda and a table overlooking the lake and the Castello di Malcesine.",
     "primaryCta": "Reserve a table",
-    "secondaryCta": "Discover Incontro",
+    "secondaryCta": "Discover Al Pontile",
     "scroll": "Discover"
   },
-
   "view": {
-    "eyebrow": "The Incontro Experience",
-    "title": "Dining with a view",
-    "description": "A panoramic terrace, the beauty of Lake Garda and the pleasure of Italian cuisine come together at Incontro.",
-    "lakeCaption": "The Terrace · Lake Garda",
-    "lakeDetail": "A panoramic setting overlooking Limone sul Garda",
-    "cityCaption": "The Table · Incontro",
-    "cityDetail": "Italian cuisine · Pizza · Wine",
+    "eyebrow": "The Al Pontile Experience",
+    "title": "Dining by the lake",
+    "description": "A table by Lake Garda, the atmosphere of Malcesine and the pleasure of Italian cuisine come together at Al Pontile.",
+    "lakeCaption": "The Pontile · Lake Garda",
+    "lakeDetail": "A table beside the water in the heart of Malcesine",
+    "cityCaption": "The Table · Al Pontile",
+    "cityDetail": "Italian cuisine · Lake Garda · Malcesine",
     "explore": "Explore"
   },
-
   "experience": {
-  "eyebrow": "A place with roots",
-  "title": "A historic place in the heart of Limone",
-  "text": "The story of Incontro is rooted in the history of Limone sul Garda. Set among the historic terraces of the village, this place connects the character of the past with the pleasure of Italian dining today. The lake, the mountains and the traditional architecture of Limone create a setting where history remains part of the experience — alongside good food, wine and hospitality.",
-    "year": "1720",
+    "eyebrow": "A place by the water",
+    "title": "Dining directly on Lake Garda",
+    "text": "At Ristorante al Pontile, the lake is part of the experience. Set directly on the shores of Lake Garda in Malcesine, the restaurant offers tables on its private pontile with a privileged view of the medieval Castello di Malcesine, bringing together Italian cuisine, the beauty of the lake and the atmosphere of an unforgettable evening.",
+    "year": "LAKE",
     "nodes": {
       "way01": {
         "title": "The journey begins"
       },
       "way02": {
-        "title": "On the way to Limone"
+        "title": "Towards Lake Garda"
       },
       "way03": {
-        "title": "Approaching Limone"
+        "title": "Arriving in Malcesine"
       },
       "way04": {
-        "title": "Entering the town"
+        "title": "Along the lakeside"
       },
       "way05": {
-        "title": "Into the old town"
+        "title": "The lake comes closer"
       },
       "way06": {
-        "title": "Almost there"
+        "title": "A table by the water"
       },
       "way07": {
-        "title": "Via Fontana"
+        "title": "The Al Pontile setting"
       },
       "way08": {
-        "title": "A few steps away"
+        "title": "Lake Garda all around"
       },
       "way09": {
-        "title": "You have arrived"
+        "title": "A moment to savour"
       },
       "way10": {
-        "title": "Hostaria Al Buongusto"
+        "title": "Ristorante al Pontile"
       }
     }
   },
-
   "moments": {
-    "eyebrow": "Moments from our guests",
-    "title": "Memories made at Incontro",
-    "description": "A family lunch, a toast with friends, a sunset dinner or a selfie by the lake — moments our guests choose to remember.",
-
+    "eyebrow": "Moments at Al Pontile",
+    "title": "Moments by Lake Garda",
+    "description": "A meal by the water, an evening in Malcesine, a toast with friends or simply the view across Lake Garda — moments made memorable at Al Pontile.",
     "cards": {
       "01": {
-        "label": "A day together",
-        "meta": "At Incontro"
+        "label": "A table by the lake",
+        "meta": "Ristorante al Pontile"
       },
       "02": {
-        "label": "Lunch with the family",
-        "meta": "A table for everyone"
+        "label": "Time by the water",
+        "meta": "Lake Garda"
       },
       "03": {
-        "label": "Cheers by the lake",
-        "meta": "Friends at the table"
+        "label": "A toast by the lake",
+        "meta": "Malcesine"
       },
       "04": {
-        "label": "A taste of Italy",
-        "meta": "Italian dining"
+        "label": "The taste of Italy",
+        "meta": "Italian cuisine"
       },
       "05": {
-        "label": "Just the two of us",
-        "meta": "An evening at Incontro"
+        "label": "An evening at the lake",
+        "meta": "Al Pontile"
       },
       "06": {
-        "label": "A moment to remember",
-        "meta": "Together at the table"
+        "label": "A moment to savour",
+        "meta": "By the water"
       },
       "07": {
-        "label": "An evening in Limone",
-        "meta": "Dinner at Incontro"
+        "label": "An evening in Malcesine",
+        "meta": "Lake Garda"
       },
       "08": {
-        "label": "A memory for two",
+        "label": "A view to remember",
         "meta": "Lake Garda"
       },
       "09": {
-        "label": "We were here",
-        "meta": "Limone sul Garda"
+        "label": "A place to remember",
+        "meta": "Malcesine · Italy"
       }
     },
-
     "note": "Keep the moment.",
-    "footer": "Every table has a story. Every visit leaves a memory."
+    "footer": "Every table has a view. Every moment becomes a memory."
   },
-
   "cuisine": {
     "eyebrow": "The Cuisine",
-    "title": "Italian cuisine with a taste of Lake Garda",
-    "description": "At Ristorante Pizza Incontro, Italian cuisine meets the flavours of Lake Garda. The menu brings together fresh fish and seafood, homemade pasta, carefully prepared meat dishes and authentic Italian pizza. From Garda char and risotto with scallops to handmade mezzelune, beef tartare and the signature Pizza Incontro, each dish is prepared with attention to detail. A carefully selected wine list completes the experience, from Italian classics to prestigious labels.",
+    "title": "Italian cuisine by Lake Garda",
+    "description": "At Ristorante al Pontile, Italian tradition meets the flavours of Lake Garda. The menu brings together freshwater fish from the lake, seafood, homemade pasta, selected meats and classic Italian dishes, alongside traditional and gourmet pizzas. From grilled salmon trout and Garda fish pasta to spaghetti allo scoglio, Scottona beef and homemade desserts, the cuisine combines familiar Italian flavours with the character of the lake.",
     "panels": {
       "lake": {
         "title": "Lake & Seafood",
-        "text": "Garda fish, seafood, risotto and Mediterranean flavours."
+        "text": "Freshwater fish from Lake Garda, seafood and Mediterranean flavours."
       },
       "mountain": {
-        "title": "Pasta & Risotto",
-        "text": "Homemade pasta, mezzelune, tortelli and risotto with carefully balanced flavours."
+        "title": "Pasta & First Courses",
+        "text": "Homemade pasta, Lake Garda pasta, seafood spaghetti and traditional Italian first courses."
       },
       "mediterranean": {
-        "title": "Meat & Classics",
-        "text": "Beef tartare, veal, steak and traditional Italian dishes with a contemporary touch."
+        "title": "Fish & Meat",
+        "text": "Grilled trout, Mediterranean sea bream, Scottona beef and classic Italian main courses."
       },
       "cellar": {
-        "title": "Pizza, Wine & Dessert",
-        "text": "Signature pizzas, selected Italian wines and desserts including 100% Limone and homemade tiramisù."
+        "title": "Pizza & Dessert",
+        "text": "Classic and gourmet pizzas followed by Italian desserts and homemade sweet specialties."
       }
     },
     "dishes": {
       "tunatartare": {
-        "name": "Tuna Tartare",
-        "description": "Tuna tartare with goat cheese mousse, mango sauce and caper leaf."
+        "name": "Polpo alla piastra con patate",
+        "description": "Grilled octopus served with potatoes."
       },
       "lagoAffumicato": {
-        "name": "Garda Char",
-        "description": "Garda char fillet with Jerusalem artichoke cream, asparagus and herring roe."
+        "name": "Pasta Lago di Garda",
+        "description": "Pasta with Lake Garda fish including lavaret, tench and perch."
       },
       "saporeDiLago": {
-        "name": "Risotto “Pila Vecia”",
-        "description": "Risotto with lemon, rosemary and raw scallop."
+        "name": "Spaghetti allo scoglio",
+        "description": "Spaghetti with seafood."
       },
       "ilNostroMare": {
-        "name": "Homemade Mezzelune",
-        "description": "Homemade mezzelune filled with prawns, garlic, olive oil and chilli."
+        "name": "Tagliolini con zucchine, gamberi e pomodorini",
+        "description": "Tagliolini with zucchini, prawns and cherry tomatoes."
       },
       "cozzePatateBaccala": {
-        "name": "Mediterranean Fish Soup",
-        "description": "A Mediterranean-style fish soup prepared with a selection of fish and seafood."
+        "name": "Zuppa di pesce",
+        "description": "Fish soup prepared in Mediterranean style."
       },
       "ilPolpoENero": {
-        "name": "Octopus Cappuccino alla Luciana",
-        "description": "Octopus prepared alla Luciana with potatoes and olives."
+        "name": "Filetto di trota salmonata alla griglia",
+        "description": "Grilled salmon trout fillet."
       },
       "duettoTrentino": {
-        "name": "Beef Tartare",
-        "description": "Beef tartare with Gorgonzola fondue and egg bottarga."
+        "name": "Tartare di manzo",
+        "description": "Knife-chopped beef tartare."
       },
       "terraDEstate": {
-        "name": "Beef Rib Steak",
-        "description": "Beef rib steak served with its traditional side dishes."
+        "name": "Tagliata di Scottona",
+        "description": "Grilled sliced Scottona beef."
       },
       "blackAngus": {
-        "name": "Roasted Veal",
-        "description": "Roasted veal with tuna sauce, capers and confit cherry tomatoes."
+        "name": "Orata in padella alla mediterranea",
+        "description": "Pan-fried gilthead seabream with olives, capers, garlic, cherry tomatoes and parsley."
       },
       "reginaMargherita": {
-        "name": "Pizza Incontro",
-        "description": "Fior di latte, tuna tataki, confit tomatoes, Tropea onion, capers and olives."
+        "name": "Pizza Margherita",
+        "description": "Pizza with mozzarella and tomato sauce."
       },
       "tonnetto": {
-        "name": "Pizza Lei",
-        "description": "Fior di latte, Cantabrian anchovies, burrata, baked tomatoes, grilled peppers, capers, garlic oil and oregano."
+        "name": "Pizza Gourmet Europa",
+        "description": "Gourmet pizza with bresaola, rocket and Grana cheese shavings."
       },
       "diavola": {
-        "name": "100% Limone",
-        "description": "A signature lemon dessert celebrating the flavours of Limone sul Garda."
+        "name": "Tiramisù",
+        "description": "Classic Italian tiramisù."
       }
     }
   },
-
   "menu": {
     "eyebrow": "Menu Favourites",
-    "title": "A taste of Incontro.",
+    "title": "A taste of Al Pontile.",
     "cta": "Explore the menu",
-    "note": "A selection of dishes guests love at Incontro.",
+    "note": "A selection of dishes from the current Al Pontile menu.",
     "items": {
       "01": {
-        "name": "Beef Tartare",
-        "description": "Beef tartare with Gorgonzola fondue and egg bottarga.",
-        "price": "€24"
+        "name": "Polpo alla piastra con patate",
+        "description": "Grilled octopus served with potatoes.",
+        "price": "€19"
       },
       "02": {
-        "name": "Risotto “Pila Vecia”",
-        "description": "Risotto with lemon, rosemary and raw scallop.",
-        "price": "€23"
+        "name": "Pasta Lago di Garda",
+        "description": "Pasta with freshwater fish from Lake Garda: lavarello, tinca and persico.",
+        "price": "€17"
       },
       "03": {
-        "name": "Homemade Mezzelune",
-        "description": "Homemade mezzelune filled with prawns, garlic, olive oil and chilli.",
+        "name": "Spaghetti allo scoglio",
+        "description": "Spaghetti with seafood.",
         "price": "€23"
       },
       "04": {
-        "name": "Pizza Lei",
-        "description": "Fior di latte, Cantabrian anchovies, burrata, baked tomatoes, grilled peppers, capers, garlic oil and oregano.",
-        "price": "€23"
+        "name": "Tagliata di Scottona",
+        "description": "Grilled sliced Scottona beef.",
+        "price": "€25"
       },
       "05": {
-        "name": "Homemade Tiramisù",
-        "description": "A classic Italian tiramisù, prepared in-house.",
-        "price": "€10"
+        "name": "Tiramisù",
+        "description": "Classic Italian tiramisù.",
+        "price": "€8"
       }
     }
   },
-
   "place": {
     "eyebrow": "The Place",
-    "title": "A place to experience Limone",
-    "description": "Set in the heart of Limone sul Garda, Ristorante Pizza Incontro brings together a panoramic terrace, the beauty of Lake Garda and the timeless atmosphere of the village.",
+    "title": "A table on Lake Garda",
+    "description": "Ristorante al Pontile sits directly on the shores of Lake Garda in Malcesine, with tables on its private pontile and a privileged view of the Castello di Malcesine.",
     "cta": "Discover the place"
   },
-
   "events": {
     "eyebrow": "Special Moments",
     "title": "Make the moment yours",
-    "description": "From a romantic dinner to a family celebration, Incontro is a place to share beautiful moments with Lake Garda as the backdrop.",
+    "description": "A romantic dinner, a family celebration or a special occasion by the lake — Al Pontile offers a memorable setting in Malcesine, with Lake Garda and the Castello di Malcesine as the backdrop.",
     "cta": "Reserve your moment",
     "types": {
       "romanticDinners": "Romantic dinners",
@@ -253,24 +241,23 @@
       "specialOccasions": "Special occasions"
     }
   },
-
   "visit": {
-    "eyebrow": "Visit Ristorante Pizza Incontro",
-    "title": "Come to Limone",
-    "description": "Find us in Limone sul Garda and make your visit part of the Lake Garda experience.",
+    "eyebrow": "Visit Ristorante al Pontile",
+    "title": "Come to Malcesine",
+    "description": "Find us directly on Lake Garda in Malcesine and make your visit part of the lake experience.",
     "locationLabel": "Where we are",
-    "address": "Via Caldogno, 1 · 25010 Limone sul Garda BS · Italy",
+    "address": "Via Gardesana, 173 · 37018 Malcesine VR · Italy",
     "directions": "Get directions"
   },
-
   "footer": {
-    "brandLabel": "RISTORANTE PIZZA INCONTRO",
-    "brandTitle": "INCONTRO",
-    "subtitle": "Cuisine · Pizza · Wine",
-    "phone": "+39 392 2558721",
-    "website": "ristoranteincontrolimone.it",
+    "brandLabel": "RISTORANTE AL PONTILE",
+    "brandTitle": "AL PONTILE",
+    "subtitle": "Italian cuisine · Lake Garda · Malcesine",
+    "phone": "+39 045 7400022",
+    "email": "info@ristorantealpontile.com",
+    "website": "ristorantealpontile.com",
     "followUs": "Follow us",
-    "legal": "Via Caldogno, 1 · 25010 Limone sul Garda BS · Italy. Ristorante Pizza Incontro with a panoramic terrace overlooking Lake Garda in the heart of Limone sul Garda.",
+    "legal": "Via Gardesana, 173 · 37018 Malcesine VR · Italy. Ristorante al Pontile on the shores of Lake Garda, with tables on the private pontile and a view of the Castello di Malcesine.",
     "facebook": "Facebook",
     "instagram": "Instagram",
     "google": "Google Maps",
@@ -279,11 +266,10 @@
     "credit": "Made with love by",
     "author": "daaart.in.ua"
   },
-
   "reservation": {
     "eyebrow": "Reservations",
     "title": "Reserve your table",
-    "description": "Choose the way that is most convenient for you and contact Ristorante Pizza Incontro directly.",
+    "description": "Choose the way that is most convenient for you and contact Ristorante al Pontile directly.",
     "close": "Close",
     "phone": {
       "title": "Reserve by phone",
@@ -292,13 +278,12 @@
     "location": {
       "title": "Find us",
       "description": "Open our location in Google Maps and get directions.",
-      "label": "Via Caldogno, 1 · Limone sul Garda"
+      "label": "Via Gardesana, 173 · Malcesine"
     },
     "website": {
       "title": "Visit our website",
-      "description": "Discover Ristorante Pizza Incontro and plan your visit."
+      "description": "Discover Ristorante al Pontile and plan your visit."
     },
     "note": "We recommend booking in advance, especially for evenings and special occasions."
   }
-
 }

@@ -1,0 +1,304 @@
+{
+  
+  "meta": {
+    "title": "Ristorante Incontro a Limone sul Garda",
+    "description": "Ristorante Incontro a Limone sul Garda: cucina italiana, specialità del Lago di Garda e atmosfera autentica nel cuore di Limone sul Garda."
+  },
+
+  "navigation": {
+    "view": "Vista",
+    "experience": "Esperienza",
+    "cuisine": "Cucina",
+    "menu": "Menu",
+    "place": "Il luogo",
+    "moments": "Momenti",
+    "events": "Eventi",
+    "visit": "Visita"
+  },
+  
+  "hero": {
+    "titlePrefix": "Un tavolo con vista",
+    "titleLake": "sul Lago",
+    "titleGarda": "di Garda",
+    "eyebrow": "Ristorante • Pizza",
+    "title": "Un tavolo con vista sul Lago di Garda.",
+    "location": "Incontro · Limone sul Garda · Italia",
+    "description": "Cucina italiana, pasta fatta in casa, pizza e i sapori del lago, serviti su una terrazza panoramica con vista su Limone sul Garda.",
+    "primaryCta": "Prenota un tavolo",
+    "secondaryCta": "Scopri Incontro",
+    "scroll": "Scopri"
+  },
+  
+  "view": {
+    "eyebrow": "L'esperienza Incontro",
+    "title": "A tavola con vista",
+    "description": "Una terrazza panoramica, la bellezza del Lago di Garda e il piacere della cucina italiana si incontrano da Incontro.",
+    "lakeCaption": "La Terrazza · Lago di Garda",
+    "lakeDetail": "Una vista panoramica su Limone sul Garda",
+    "cityCaption": "La Tavola · Incontro",
+    "cityDetail": "Cucina italiana · Pizza · Vino",
+    "explore": "Scopri"
+  },
+
+  "experience": {
+    "eyebrow": "Un luogo dalle sue radici",
+    "title": "Un luogo storico nel cuore di Limone",
+    "text": "La storia di Incontro affonda le sue radici nella storia di Limone sul Garda. Immerso tra le antiche terrazze del paese, questo luogo unisce il carattere del passato al piacere della tavola italiana di oggi. Il lago, le montagne e l'architettura tradizionale di Limone fanno da cornice a un'esperienza in cui la storia rimane parte del luogo, insieme alla buona cucina, al vino e all'ospitalità.",
+    "year": "1720",
+    "nodes": {
+      "way01": {
+        "title": "Il viaggio comincia"
+      },
+      "way02": {
+        "title": "Verso Limone"
+      },
+      "way03": {
+        "title": "In arrivo a Limone"
+      },
+      "way04": {
+        "title": "Entrando in paese"
+      },
+      "way05": {
+        "title": "Nel centro storico"
+      },
+      "way06": {
+        "title": "Ci siamo quasi"
+      },
+      "way07": {
+        "title": "Via Fontana"
+      },
+      "way08": {
+        "title": "Ancora pochi passi"
+      },
+      "way09": {
+        "title": "Siete arrivati"
+      },
+      "way10": {
+        "title": "Hostaria Al Buongusto"
+      }
+    }
+  },
+
+  "moments": {
+    "eyebrow": "Momenti dei nostri ospiti",
+    "title": "Ricordi creati da Incontro",
+    "description": "Un pranzo in famiglia, un brindisi con gli amici, una cena al tramonto o un selfie sul lago — momenti che i nostri ospiti scelgono di ricordare.",
+
+    "cards": {
+      "01": {
+        "label": "Una giornata insieme",
+        "meta": "Da Incontro"
+      },
+      "02": {
+        "label": "Pranzo in famiglia",
+        "meta": "Una tavola per tutti"
+      },
+      "03": {
+        "label": "Un brindisi sul lago",
+        "meta": "Amici a tavola"
+      },
+      "04": {
+        "label": "Un assaggio d'Italia",
+        "meta": "Cucina italiana"
+      },
+      "05": {
+        "label": "Solo noi due",
+        "meta": "Una serata da Incontro"
+      },
+      "06": {
+        "label": "Un momento da ricordare",
+        "meta": "Insieme a tavola"
+      },
+      "07": {
+        "label": "Una sera a Limone",
+        "meta": "Cena da Incontro"
+      },
+      "08": {
+        "label": "Un ricordo per due",
+        "meta": "Lago di Garda"
+      },
+      "09": {
+        "label": "Siamo stati qui",
+        "meta": "Limone sul Garda"
+      }
+    },
+
+    "note": "Conserva il momento.",
+    "footer": "Ogni tavola ha una storia. Ogni visita lascia un ricordo."
+  },
+  
+  "cuisine": {
+    "eyebrow": "La Cucina",
+    "title": "La cucina italiana con il gusto del Lago di Garda",
+    "description": "Da Ristorante Pizza Incontro, la cucina italiana incontra i sapori del Lago di Garda. Il menu propone pesce di lago e di mare, pasta fatta in casa, piatti di carne e autentica pizza italiana. Dal coregone del Garda al risotto con capesante, dalle mezzelune fatte in casa alla tartare di carne e alla Pizza Incontro, ogni piatto è preparato con cura e attenzione ai dettagli. Una carta dei vini selezionata completa l'esperienza, tra grandi classici italiani ed etichette prestigiose.",
+    "panels": {
+      "lake": {
+        "title": "Lago & Mare",
+        "text": "Pesce del Garda, frutti di mare, risotti e sapori mediterranei."
+      },
+      "mountain": {
+        "title": "Pasta & Risotti",
+        "text": "Pasta fatta in casa, mezzelune, tortelli e risotti dai sapori equilibrati."
+      },
+      "mediterranean": {
+        "title": "Carne & Classici",
+        "text": "Tartare di carne, vitello, costata e grandi classici italiani reinterpretati con cura."
+      },
+      "cellar": {
+        "title": "Pizza, Vino & Dessert",
+        "text": "Pizze d'autore, vini italiani selezionati e dessert come 100% Limone e tiramisù fatto in casa."
+      }
+    },
+    "dishes": {
+      "tunatartare": {
+        "name": "Tartare di tonno",
+        "description": "Tartare di tonno con mousse di caprino, salsa al mango e foglia di cappero."
+      },
+      "lagoAffumicato": {
+        "name": "Filetto di coregone del Garda",
+        "description": "Filetto di coregone del Garda con crema di topinambur, asparagi e caviale di aringa."
+      },
+      "saporeDiLago": {
+        "name": "Risotto riserva “Pila Vecia”",
+        "description": "Risotto con limone, rosmarino e crudo di capasanta."
+      },
+      "ilNostroMare": {
+        "name": "Mezzelune fatte in casa",
+        "description": "Mezzelune fatte in casa ai gamberi, aglio, olio e peperoncino."
+      },
+      "cozzePatateBaccala": {
+        "name": "Zuppa di pesce alla mediterranea",
+        "description": "Zuppa di pesce alla mediterranea preparata con pesce e frutti di mare."
+      },
+      "ilPolpoENero": {
+        "name": "Cappuccino di polpo alla Luciana",
+        "description": "Polpo alla Luciana con patate e olive."
+      },
+      "duettoTrentino": {
+        "name": "Tartare di carne",
+        "description": "Tartare di carne con fonduta di Gorgonzola e bottarga di uovo."
+      },
+      "terraDEstate": {
+        "name": "Costata di manzo",
+        "description": "Costata di manzo servita con i suoi contorni."
+      },
+      "blackAngus": {
+        "name": "Girello di vitello arrosto",
+        "description": "Girello di vitello arrosto con salsa tonnata, capperi e pomodorini confit."
+      },
+      "reginaMargherita": {
+        "name": "Pizza Incontro",
+        "description": "Fior di latte, tonno Tataki, pomodori confit, cipolle di Tropea, capperi e olive."
+      },
+      "tonnetto": {
+        "name": "Pizza Lei",
+        "description": "Fior di latte, acciughe del Cantabrico, burrata, pomodori infornati, peperoni grigliati, capperi, olio all'aglio e origano."
+      },
+      "diavola": {
+        "name": "100% Limone",
+        "description": "Un dessert al limone dedicato ai sapori e alla freschezza di Limone sul Garda."
+      }
+    }
+  },
+
+  "menu": {
+    "eyebrow": "I preferiti del menu",
+    "title": "Il gusto di Incontro.",
+    "cta": "Scopri il menu",
+    "note": "Una selezione dei piatti più amati dai nostri ospiti.",
+    "items": {
+      "01": {
+        "name": "Tartare di carne",
+        "description": "Tartare di carne con fonduta di gorgonzola e bottarga di uovo.",
+        "price": "€24"
+      },
+      "02": {
+        "name": "Risotto “Pila Vecia”",
+        "description": "Risotto con limone, rosmarino e crudo di capasanta.",
+        "price": "€23"
+      },
+      "03": {
+        "name": "Mezzelune fatte in casa",
+        "description": "Mezzelune fatte in casa ai gamberi, aglio, olio e peperoncino.",
+        "price": "€23"
+      },
+      "04": {
+        "name": "Pizza Lei",
+        "description": "Fior di latte, acciughe del Cantabrico, burrata, pomodori infornati, peperoni grigliati, capperi, olio all'aglio e origano.",
+        "price": "€23"
+      },
+      "05": {
+        "name": "Tiramisù fatto in casa",
+        "description": "Il classico tiramisù italiano, preparato in casa.",
+        "price": "€10"
+      }
+    }
+  },
+  
+  "place": {
+    "eyebrow": "Il luogo",
+    "title": "Un luogo da vivere a Limone",
+    "description": "Nel cuore di Limone sul Garda, Ristorante Pizza Incontro unisce una terrazza panoramica, la bellezza del Lago di Garda e l'atmosfera senza tempo del paese.",
+    "cta": "Scopri il luogo"
+  },
+
+  "events": {
+    "eyebrow": "Momenti speciali",
+    "title": "Rendi il momento tutto tuo",
+    "description": "Da una cena romantica a una celebrazione in famiglia, Incontro è il luogo dove condividere momenti speciali con il Lago di Garda sullo sfondo.",
+    "cta": "Prenota il tuo momento",
+    "types": {
+      "romanticDinners": "Cene romantiche",
+      "familyCelebrations": "Celebrazioni in famiglia",
+      "specialOccasions": "Occasioni speciali"
+    }
+  },
+
+  "visit": {
+    "eyebrow": "Visita Ristorante Pizza Incontro",
+    "title": "Vieni a Limone",
+    "description": "Ci trovi a Limone sul Garda: fai della tua visita parte dell'esperienza del Lago di Garda.",
+    "locationLabel": "Dove siamo",
+    "address": "Via Caldogno, 1 · 25010 Limone sul Garda BS · Italia",
+    "directions": "Come arrivare"
+  },
+  
+  "footer": {
+    "brandLabel": "RISTORANTE PIZZA INCONTRO",
+    "brandTitle": "INCONTRO",
+    "subtitle": "Ristorante • Pizza",
+    "phone": "+39 392 2558721",
+    "website": "ristoranteincontrolimone.it",
+    "followUs": "Seguici",
+    "legal": "Via Caldogno, 1 · 25010 Limone sul Garda BS · Italia. Ristorante Pizza Incontro con una terrazza panoramica affacciata sul Lago di Garda, nel cuore di Limone sul Garda.",
+    "facebook": "Facebook",
+    "instagram": "Instagram",
+    "google": "Google Maps",
+    "tripadvisor": "Tripadvisor",
+    "copyright": "© 2026",
+    "credit": "Realizzato con amore da",
+    "author": "daaart.in.ua"
+  },
+
+  "reservation": {
+    "eyebrow": "Prenotazioni",
+    "title": "Prenota il tuo tavolo",
+    "description": "Scegli la modalità più comoda per te e contatta direttamente Ristorante Pizza Incontro.",
+    "close": "Chiudi",
+    "phone": {
+      "title": "Prenota per telefono",
+      "description": "Chiamaci direttamente per prenotare il tuo tavolo."
+    },
+    "location": {
+      "title": "Dove siamo",
+      "description": "Apri la nostra posizione su Google Maps e scopri come arrivare.",
+      "label": "Via Caldogno, 1 · Limone sul Garda"
+    },
+    "website": {
+      "title": "Visita il nostro sito",
+      "description": "Scopri Ristorante Pizza Incontro e organizza la tua visita."
+    },
+    "note": "Ti consigliamo di prenotare in anticipo, soprattutto per la sera e per le occasioni speciali."
+  }
+
+}

@@ -1,0 +1,304 @@
+{
+    
+  "meta": {
+    "title": "Restaurant Incontro in Limone sul Garda",
+    "description": "Restaurant Incontro in Limone sul Garda: Italienische Küche, Spezialitäten vom Gardasee und ein authentisches Ambiente im Herzen von Limone sul Garda."
+  },
+
+  "navigation": {
+    "view": "Aussicht",
+    "experience": "Erlebnis",
+    "cuisine": "Küche",
+    "menu": "Menü",
+    "place": "Der Ort",
+    "moments": "Momente",
+    "events": "Events",
+    "visit": "Besuch"
+  },
+  
+  "hero": {
+    "titlePrefix": "Ein Tisch mit Blick auf",
+    "titleLake": "den",
+    "titleGarda": "Gardasee",
+    "eyebrow": "Ristorante • Pizza",
+    "title": "Ein Tisch mit Blick auf den Gardasee.",
+    "location": "Incontro · Limone sul Garda · Italien",
+    "description": "Italienische Küche, hausgemachte Pasta, Pizza und die Aromen des Sees – serviert auf einer Panoramaterrasse mit Blick auf Limone sul Garda.",
+    "primaryCta": "Tisch reservieren",
+    "secondaryCta": "Incontro entdecken",
+    "scroll": "Entdecken"
+  },
+  
+  "view": {
+    "eyebrow": "Das Incontro-Erlebnis",
+    "title": "Genießen mit Aussicht",
+    "description": "Eine Panoramaterrasse, die Schönheit des Gardasees und die Freude an italienischer Küche verbinden sich bei Incontro.",
+    "lakeCaption": "Die Terrasse · Gardasee",
+    "lakeDetail": "Panoramablick über Limone sul Garda",
+    "cityCaption": "Die Tafel · Incontro",
+    "cityDetail": "Italienische Küche · Pizza · Wein",
+    "explore": "Entdecken"
+  },
+
+  "experience": {
+    "eyebrow": "Ein Ort mit Geschichte",
+    "title": "Ein historischer Ort im Herzen von Limone",
+    "text": "Die Geschichte von Incontro ist eng mit der Geschichte von Limone sul Garda verbunden. Zwischen den historischen Terrassen des Ortes gelegen, verbindet dieser Ort den Charakter der Vergangenheit mit dem Genuss der italienischen Küche von heute. Der See, die Berge und die traditionelle Architektur von Limone bilden den Rahmen für ein Erlebnis, bei dem die Geschichte Teil des Ortes bleibt – begleitet von gutem Essen, Wein und herzlicher Gastfreundschaft.",
+    "year": "1720",
+    "nodes": {
+      "way01": {
+        "title": "Die Reise beginnt"
+      },
+      "way02": {
+        "title": "Auf dem Weg nach Limone"
+      },
+      "way03": {
+        "title": "Ankunft in Limone"
+      },
+      "way04": {
+        "title": "Wir erreichen den Ort"
+      },
+      "way05": {
+        "title": "In der Altstadt"
+      },
+      "way06": {
+        "title": "Fast geschafft"
+      },
+      "way07": {
+        "title": "Via Fontana"
+      },
+      "way08": {
+        "title": "Nur noch wenige Schritte"
+      },
+      "way09": {
+        "title": "Sie sind angekommen"
+      },
+      "way10": {
+        "title": "Hostaria Al Buongusto"
+      }
+    }
+  },
+
+  "moments": {
+    "eyebrow": "Momente unserer Gäste",
+    "title": "Erinnerungen bei Incontro",
+    "description": "Ein Mittagessen mit der Familie, ein Anstoßen mit Freunden, ein Abendessen bei Sonnenuntergang oder ein Selfie am See – Momente, die unsere Gäste gerne mit nach Hause nehmen.",
+
+    "cards": {
+      "01": {
+        "label": "Ein Tag gemeinsam",
+        "meta": "Bei Incontro"
+      },
+      "02": {
+        "label": "Mittagessen mit der Familie",
+        "meta": "Ein Tisch für alle"
+      },
+      "03": {
+        "label": "Anstoßen am See",
+        "meta": "Freunde am Tisch"
+      },
+      "04": {
+        "label": "Ein Geschmack Italiens",
+        "meta": "Italienische Küche"
+      },
+      "05": {
+        "label": "Nur wir zwei",
+        "meta": "Ein Abend bei Incontro"
+      },
+      "06": {
+        "label": "Ein Moment zum Erinnern",
+        "meta": "Gemeinsam am Tisch"
+      },
+      "07": {
+        "label": "Ein Abend in Limone",
+        "meta": "Abendessen bei Incontro"
+      },
+      "08": {
+        "label": "Eine Erinnerung zu zweit",
+        "meta": "Gardasee"
+      },
+      "09": {
+        "label": "Wir waren hier",
+        "meta": "Limone sul Garda"
+      }
+    },
+
+    "note": "Den Moment bewahren.",
+    "footer": "Jeder Tisch hat eine Geschichte. Jeder Besuch hinterlässt eine Erinnerung."
+  },
+
+  "cuisine": {
+    "eyebrow": "Die Küche",
+    "title": "Italienische Küche mit dem Geschmack des Gardasees",
+    "description": "Im Ristorante Pizza Incontro verbindet sich italienische Küche mit den Aromen des Gardasees. Die Speisekarte vereint Fisch aus dem See und dem Meer, hausgemachte Pasta, sorgfältig zubereitete Fleischgerichte und authentische italienische Pizza. Vom Gardasee-Felchen und Risotto mit Jakobsmuscheln über hausgemachte Mezzelune bis hin zu Rindertatar und der Pizza Incontro wird jedes Gericht mit Liebe zum Detail zubereitet. Eine sorgfältig ausgewählte Weinkarte mit italienischen Klassikern und besonderen Etiketten rundet das Erlebnis ab.",
+    "panels": {
+      "lake": {
+        "title": "See & Meer",
+        "text": "Fisch aus dem Gardasee, Meeresfrüchte, Risotto und mediterrane Aromen."
+      },
+      "mountain": {
+        "title": "Pasta & Risotto",
+        "text": "Hausgemachte Pasta, Mezzelune, Tortelli und Risotto mit ausgewogenen Aromen."
+      },
+      "mediterranean": {
+        "title": "Fleisch & Klassiker",
+        "text": "Rindertatar, Kalbfleisch, Steak und italienische Klassiker mit moderner Note."
+      },
+      "cellar": {
+        "title": "Pizza, Wein & Dessert",
+        "text": "Signature-Pizzen, ausgewählte italienische Weine und Desserts wie 100% Limone und hausgemachtes Tiramisù."
+      }
+    },
+    "dishes": {
+      "tunatartare": {
+        "name": "Thunfischtatar",
+        "description": "Thunfischtatar mit Ziegenkäsemousse, Mangosauce und Kapernblatt."
+      },
+      "lagoAffumicato": {
+        "name": "Gardasee-Felchen",
+        "description": "Filet vom Gardasee-Felchen mit Topinamburcreme, Spargel und Heringsrogen."
+      },
+      "saporeDiLago": {
+        "name": "Risotto „Pila Vecia“",
+        "description": "Risotto mit Zitrone, Rosmarin und roher Jakobsmuschel."
+      },
+      "ilNostroMare": {
+        "name": "Hausgemachte Mezzelune",
+        "description": "Hausgemachte Mezzelune mit Garnelen, Knoblauch, Olivenöl und Chili."
+      },
+      "cozzePatateBaccala": {
+        "name": "Mediterrane Fischsuppe",
+        "description": "Mediterrane Fischsuppe mit ausgewähltem Fisch und Meeresfrüchten."
+      },
+      "ilPolpoENero": {
+        "name": "Oktopus alla Luciana",
+        "description": "Oktopus alla Luciana mit Kartoffeln und Oliven."
+      },
+      "duettoTrentino": {
+        "name": "Rindertatar",
+        "description": "Rindertatar mit Gorgonzola-Fondue und Eierbottarga."
+      },
+      "terraDEstate": {
+        "name": "Rinderkotelett",
+        "description": "Rinderkotelett mit passenden Beilagen."
+      },
+      "blackAngus": {
+        "name": "Gebratenes Kalbfleisch",
+        "description": "Gebratenes Kalbfleisch mit Thunfischsauce, Kapern und konfierten Kirschtomaten."
+      },
+      "reginaMargherita": {
+        "name": "Pizza Incontro",
+        "description": "Fior di latte, Tataki-Thunfisch, konfierte Tomaten, Zwiebeln aus Tropea, Kapern und Oliven."
+      },
+      "tonnetto": {
+        "name": "Pizza Lei",
+        "description": "Fior di latte, Sardellen aus Kantabrien, Burrata, gebackene Tomaten, gegrillte Paprika, Kapern, Knoblauchöl und Oregano."
+      },
+      "diavola": {
+        "name": "100% Limone",
+        "description": "Ein Zitronendessert, inspiriert von den Aromen und der Frische von Limone sul Garda."
+      }
+    }
+  },
+
+  "menu": {
+    "eyebrow": "Unsere Favoriten",
+    "title": "Der Geschmack von Incontro.",
+    "cta": "Menü entdecken",
+    "note": "Eine Auswahl der Gerichte, die unsere Gäste besonders lieben.",
+    "items": {
+      "01": {
+        "name": "Rindertatar",
+        "description": "Rindertatar mit Gorgonzola-Fondue und Eier-Bottarga.",
+        "price": "€24"
+      },
+      "02": {
+        "name": "Risotto „Pila Vecia“",
+        "description": "Risotto mit Zitrone, Rosmarin und roher Jakobsmuschel.",
+        "price": "€23"
+      },
+      "03": {
+        "name": "Hausgemachte Mezzelune",
+        "description": "Hausgemachte Mezzelune mit Garnelen, Knoblauch, Olivenöl und Chili.",
+        "price": "€23"
+      },
+      "04": {
+        "name": "Pizza Lei",
+        "description": "Fior di latte, Sardellen aus dem Kantabrischen Meer, Burrata, Ofentomaten, gegrillte Paprika, Kapern, Knoblauchöl und Oregano.",
+        "price": "€23"
+      },
+      "05": {
+        "name": "Hausgemachtes Tiramisù",
+        "description": "Klassisches italienisches Tiramisù, hausgemacht zubereitet.",
+        "price": "€10"
+      }
+    }
+  },
+
+  "place": {
+    "eyebrow": "Der Ort",
+    "title": "Ein Ort, um Limone zu erleben",
+    "description": "Im Herzen von Limone sul Garda verbindet das Ristorante Pizza Incontro eine Panoramaterrasse, die Schönheit des Gardasees und die zeitlose Atmosphäre des Ortes.",
+    "cta": "Den Ort entdecken"
+  },
+
+  "events": {
+    "eyebrow": "Besondere Momente",
+    "title": "Machen Sie den Moment zu Ihrem",
+    "description": "Von einem romantischen Abendessen bis zu einer Familienfeier – Incontro ist ein Ort, an dem besondere Momente mit dem Gardasee als Kulisse geteilt werden.",
+    "cta": "Ihren Moment reservieren",
+    "types": {
+      "romanticDinners": "Romantische Abendessen",
+      "familyCelebrations": "Familienfeiern",
+      "specialOccasions": "Besondere Anlässe"
+    }
+  },
+
+  "visit": {
+    "eyebrow": "Besuchen Sie Ristorante Pizza Incontro",
+    "title": "Kommen Sie nach Limone",
+    "description": "Sie finden uns in Limone sul Garda – machen Sie Ihren Besuch zu einem Teil des Gardasee-Erlebnisses.",
+    "locationLabel": "Wo wir sind",
+    "address": "Via Caldogno, 1 · 25010 Limone sul Garda BS · Italien",
+    "directions": "Route planen"
+  },
+
+  "footer": {
+    "brandLabel": "RISTORANTE PIZZA INCONTRO",
+    "brandTitle": "INCONTRO",
+    "subtitle": "Ristorante • Pizza",
+    "phone": "+39 392 2558721",
+    "website": "ristoranteincontrolimone.it",
+    "followUs": "Folgen Sie uns",
+    "legal": "Via Caldogno, 1 · 25010 Limone sul Garda BS · Italien. Ristorante Pizza Incontro mit einer Panoramaterrasse und Blick auf den Gardasee im Herzen von Limone sul Garda.",
+    "facebook": "Facebook",
+    "instagram": "Instagram",
+    "google": "Google Maps",
+    "tripadvisor": "Tripadvisor",
+    "copyright": "© 2026",
+    "credit": "Mit Liebe erstellt von",
+    "author": "daaart.in.ua"
+  },
+
+  "reservation": {
+    "eyebrow": "Reservierungen",
+    "title": "Tisch reservieren",
+    "description": "Wählen Sie die für Sie bequemste Möglichkeit und kontaktieren Sie Ristorante Pizza Incontro direkt.",
+    "close": "Schließen",
+    "phone": {
+      "title": "Telefonisch reservieren",
+      "description": "Rufen Sie uns direkt an, um Ihren Tisch zu reservieren."
+    },
+    "location": {
+      "title": "Wo wir sind",
+      "description": "Öffnen Sie unseren Standort in Google Maps und lassen Sie sich den Weg anzeigen.",
+      "label": "Via Caldogno, 1 · Limone sul Garda"
+    },
+    "website": {
+      "title": "Unsere Website besuchen",
+      "description": "Entdecken Sie Ristorante Pizza Incontro und planen Sie Ihren Besuch."
+    },
+    "note": "Wir empfehlen, besonders für Abende und besondere Anlässe im Voraus zu reservieren."
+  }
+    
+}
